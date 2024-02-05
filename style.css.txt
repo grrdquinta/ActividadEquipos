@@ -1,1 +1,2 @@
 cambie el estilo
+mejore el estilo y agregue color de fondo
